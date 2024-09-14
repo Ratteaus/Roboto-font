@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Roboto",
+    "previewText": "Roboto is a neo-grotesque sans-serif typeface family developed by Google as the system font for its mobile operating system Android",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Black.ttf",
+        "ggsans-Bold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Bold.ttf",
+        "ggsans-BoldItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Black.ttf",
+        "ggsans-ExtraBoldItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-BlackItalic.ttf",
+        "ggsans-Medium": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Medium.ttf",
+        "ggsans-MediumItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-MediumItalic.ttf",
+        "ggsans-Normal": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Regular.ttf",
+        "ggsans-NormalItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Italic.ttf",
+        "ggsans-Semibold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Medium.ttf",
+        "ggsans-SemiboldItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-MediumItalic.ttf",
+        "NotoSans-Bold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Bold.ttf",
+        "NotoSans-ExtraBold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Black.ttf",
+        "NotoSans-Medium": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Medium.ttf",
+        "NotoSans-Normal": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Regular.ttf",
+        "NotoSans-NormalItalic": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Italic.ttf",
+        "NotoSans-Semibold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/Roboto-Medium.ttf",
+        "SourceCodePro-Semibold": "https://codeberg.org/ikuyo/discord-resources/raw/branch/main/fonts/Roboto/RobotoMono-SemiBold.ttf"
+    }
+}
